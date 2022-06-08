@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kawan044
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 SLV,MEU NOME É @kawan044
+- 👀 MEU EMAIL DE CONTATO É kawan.mori@escola.pr.gov.br
+- 🌱 eu esto interesado em aprender a progamar novas linguagens 
+- 💞️ eu estou apredendo a progmar recentemente a linguagem de javascript e scratch
+
 
 <!---
 kawan044/kawan044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
